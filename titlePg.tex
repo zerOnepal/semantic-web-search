@@ -11,8 +11,38 @@
 \tableofcontents
 \newpage
 \section{Introduction}
+%\rule{\textwidth}{0.5pt}
 \pagenumbering{arabic}
-Semantic web search is the new search technique to provide the users what actually they want in their \textbf{search}
+%Semantic web search\footnote{\today footnote about search} is the new search technique to provide the users what actually they want in their \textbf{search}
+One important goal of the semantic web is to make the meaning of information explicit through semantic mark-up, thus enabling more effective access to knowledge contained in heterogeneous information environments, such as the web. Semantic search plays an important role in realizing this goal, as it promises to produce precise answers to user’s queries by taking advantage of the availability of explicit semantics of information. For example, when searching for news stories about phd students, with traditional searching technologies, we often could only get news entries in which the term ''phd students" appears. Those entries which mention the names of students but do not use the term ''phd students" directly will be missed out. Such news entries however are often the ones that the user is really interested in. In the context of the semantic web, where the meaning of web content is made explicit, the semantic meaning of the keyword (which is a general concept in the example of phd students) can be figured out. Furthermore, the underlying semantic relations of metadata can be exploited to support the retrieving of information which is closely related to the keyword. Thereby, the search performance can be significantly improved by expanding the query with instances and relations.
+
+
+A number of semantic search tools have been recently developed [5, 4, 7, 2,9, 6]. Our overview of the state-of-art semantic search tools reveals that while these tools do enhance the performance of traditional search technologies, they are however not suitable for naive users, i.e. ordinary end users who are not necessarily familiar with domain specific semantic data, ontologies, or SQL-like query languages. The semantic search engine we present here, SemSearch, provides several means to address this issue.
+
+
+--SemSearch tackles the problem of knowledge overhead by supporting a Google-
+like query interface. As will be described in Section 4, the proposed query
+interface provides a simple but powerful way of specifying queries.
+– SemSearch addresses the problem of existing semantic-based keyword search
+engines by supporting complex queries. It provides comprehensive means to
+make sense of user queries and to translate them into formal queries.
+– SemSearch takes the focus of user queries into consideration when generating
+formal queries, thus being able to produce precise results that on the one
+hand satisfy user queries and on the other hand are self-explanatory and
+understandable by end users.
+Thus, SemSearch makes it possible for ordinary end users to harvest the
+benefits of semantic search and other semantic web technologies without having
+to know the underlying semantic data or to learn a SQL-like query language. A
+prototype of the search engine has been implemented and applied in the semantic
+web portal of our lab1 . An initial evaluation shows promising results.
+The rest of the paper is organized as follows. We begin in Section 2 by
+investigating how current semantic search tools approach the issue of end user
+support. We then present an overview of SemSearch in Section 3. Thereafter,
+we explain the Google-like query interface in Section 4. We describe the major
+steps of the semantic search process in sections 5 and 6. In Section 7, we describe
+the implementation of SemSearch and the experimental evaluation. Finally, in
+Section 8, we conclude our paper with a discussion of our contributions and
+future work.
 
 This is a test \textit{new paragraph}
 \subsection{History of semantic web}
@@ -22,5 +52,13 @@ chapter\\
 section\\
 subsections\\
 paragraph
+\subsection{Why Semantic Web Search ?}
+The effective exploration of the web content involves with the numerious challanges:
+\begin{description}
+\item[Useability] The user on a web searching for something does't care how the structured query is specified. The end user often does not know the query language and the underlying data scheme.
+\item[Scalability] As the amount of available data is ever growing, the ability to scale the most desired results is essential.
+\item[Imprecise Information Needs] The information needs expressed by the user might be imprecise. An effective search solution should be able to consider this aspect to deliver relevant results.
+\item[Data Change] The Web of Data is continuously changing. Thus, efficient mechanisms for index update at the Web scale are needed when data changes. 
+\end{description}
 \end{quote}
 \end{document}

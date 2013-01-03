@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=latex 2012.12.20)  2 JAN 2013 19:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=latex 2012.12.20)  2 JAN 2013 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,14 +55,36 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2
 
-] [1] (./titlePg.aux) ) 
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [1] [2] (./titlePg.aux) ) 
 Here is how much of TeX's memory you used:
  256 strings out of 493489
  2728 string characters out of 3146914
- 50432 words of memory out of 3000000
+ 54432 words of memory out of 3000000
  3635 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,6n,19p,169b,173s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,19p,1338b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on titlePg.dvi (3 pages, 1780 bytes).
+Output written on titlePg.dvi (4 pages, 7412 bytes).
