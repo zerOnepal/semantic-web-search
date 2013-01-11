@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.12.20)  7 JAN 2013 19:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.12.20)  11 JAN 2013 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -302,56 +302,52 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] [1]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [2] [3]
-Overfull \hbox (2.62244pt too wide) in paragraph at lines 99--116
+ [2]
+Overfull \hbox (2.62244pt too wide) in paragraph at lines 69--86
 [][] 
  []
 
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 94.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
+
+Overfull \hbox (0.814pt too wide) in paragraph at lines 95--96
+[]\OT1/cmr/m/n/12 it should ad-dress the prob-lem of ex-ist-ing semantic-based 
+key-word search
+ []
+
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+ [5] [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (./titlePg.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `titlePg.out' has not changed.
-(rerunfilecheck)             Checksum: F5E1D90AE807F249FF95D914883B4BC9;401.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
+(rerunfilecheck)             Checksum: D160D883F23099BE82325C198F497ABB;408.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
- 5204 strings out of 493488
- 76490 string characters out of 3146891
- 157267 words of memory out of 3000000
- 8467 multiletter control sequences out of 15000+200000
- 9495 words of font info for 33 fonts, out of 3000000 for 9000
+ 5220 strings out of 493488
+ 76750 string characters out of 3146891
+ 156267 words of memory out of 3000000
+ 8480 multiletter control sequences out of 15000+200000
+ 9194 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  29i,12n,31p,1703b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on titlePg.pdf (7 pages, 130956 bytes).
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti12.pfb>
+Output written on titlePg.pdf (8 pages, 141400 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
