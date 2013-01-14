@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.12.20)  11 JAN 2013 14:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.12.20)  14 JAN 2013 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -265,16 +265,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
- <./img/ku_logo.png, id=28, 501.875pt x 501.875pt>
+ <./img/ku_logo.png, id=36, 501.875pt x 501.875pt>
 File: ./img/ku_logo.png Graphic file (type png)
 
 <use ./img/ku_logo.png>
 Package pdftex.def Info: ./img/ku_logo.png used on input line 18.
 (pdftex.def)             Requested size: 170.71947pt x 170.71652pt.
+
+
+LaTeX Warning: Float too large for page by 29.85403pt on input line 35.
+
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@none' on input line 27.
@@ -303,51 +304,64 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [2]
-Overfull \hbox (2.62244pt too wide) in paragraph at lines 69--86
+ [2] [3]
+Overfull \hbox (2.62244pt too wide) in paragraph at lines 81--98
 [][] 
  []
 
-[3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 94.
+[4]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 103.
+
+<./img/sem_srch.png, id=83, 461.725pt x 334.24875pt>
+File: ./img/sem_srch.png Graphic file (type png)
+ <use ./img/sem_srch.png>
+Package pdftex.def Info: ./img/sem_srch.png used on input line 106.
+(pdftex.def)             Requested size: 314.44089pt x 227.62204pt.
+
+[5 <./img/sem_srch.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 121.
+
  (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 94.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
 
-Overfull \hbox (0.814pt too wide) in paragraph at lines 95--96
+Overfull \hbox (0.814pt too wide) in paragraph at lines 122--123
 []\OT1/cmr/m/n/12 it should ad-dress the prob-lem of ex-ist-ing semantic-based 
 key-word search
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
- [5] [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+[6] [7] [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
  (./titlePg.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
 Package rerunfilecheck Info: File `titlePg.out' has not changed.
-(rerunfilecheck)             Checksum: D160D883F23099BE82325C198F497ABB;408.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+(rerunfilecheck)             Checksum: 166E4AEEC22606738E2B0AF355EE987B;549.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 5220 strings out of 493488
- 76750 string characters out of 3146891
- 156267 words of memory out of 3000000
- 8480 multiletter control sequences out of 15000+200000
- 9194 words of font info for 32 fonts, out of 3000000 for 9000
+ 5248 strings out of 493488
+ 77072 string characters out of 3146891
+ 156408 words of memory out of 3000000
+ 8493 multiletter control sequences out of 15000+200000
+ 9546 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,12n,31p,1703b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,12n,32p,1790b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmti12.pfb>
-Output written on titlePg.pdf (8 pages, 141400 bytes).
+/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti8.pfb>
+Output written on titlePg.pdf (11 pages, 232812 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
